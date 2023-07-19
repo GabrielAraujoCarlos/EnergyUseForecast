@@ -1,0 +1,19 @@
+date: The date and time of the sensor reading.
+Appliances: The amount of power being used by appliances in the home.
+lights: The amount of power being used by lights in the home.
+T1: The temperature reading from sensor 1.
+RH_1: The relative humidity reading from sensor 1.
+T2: The temperature reading from sensor 2.
+RH_2: The relative humidity reading from sensor 2.
+etc.: The rest of the columns are temperature and relative humidity readings from other sensors in the home.
+T_out: The outdoor temperature.
+Press_mm_hg: The outdoor pressure.
+RH_out: The outdoor relative humidity.
+Windspeed: The wind speed.
+Visibility: The visibility.
+Tdewpoint: The dew point.
+rv1: The rain volume reading from sensor 1.
+rv2: The rain volume reading from sensor 2.
+NSM: The number of significant moistures.
+WeekStatus: The day of the week.
+Day_of_week: The name of the day of the week.
